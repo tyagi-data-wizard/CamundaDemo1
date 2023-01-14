@@ -16,6 +16,7 @@ public class printMsg implements JavaDelegate {
 		//= rnd.nextBoolean();
 		System.out.println("testing");
 		
+		
 		execution.setVariable("boo",rnd.nextBoolean());
 		
 	}
